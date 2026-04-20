@@ -1,0 +1,18 @@
+# Environment
+myenv/
+__pycache__/
+*.pyc
+
+# Case Study
+case-study.pdf
+
+# Data
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# Ignore all pngs EXCEPT the one used in the report
+*.png
+!results_lambda_0.001.png
