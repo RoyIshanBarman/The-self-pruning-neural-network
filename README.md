@@ -3,7 +3,7 @@
 > A neural network that learns to remove its own unnecessary connections — **during training, not after.**
 
 Built as the AI Engineer Case Study submission for **Tredence Analytics**.  
-**Candidate:** Ishan Roy Barman | [LinkedIn](https://linkedin.com/in/RoyIshanBarman) | [GitHub](https://github.com/RoyIshanBarman)
+**Candidate:** Ishan Roy Barman | [LinkedIn](https://www.linkedin.com/in/ishan-roy-barman-779090222/) | [GitHub](https://github.com/RoyIshanBarman)
 
 ---
 
