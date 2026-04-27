@@ -13,6 +13,4 @@ data/
 .vscode/
 .idea/
 
-# Ignore all pngs EXCEPT the one used in the report
-*.png
-!results_lambda_0.001.png
+
